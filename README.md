@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## My process
 
-  Building my first project was fun. I've been watching HTML and CSS videos and boothcamps for awhile and puting everything i've learned to a test was challenging. 
+  Building my first project was fun. I've been watching HTML and CSS videos and boothcamps for a while and putting everything i've learned to a test was challenging. 
 
   During my process of trying to create a qr-code landing page, i must admit i got stuck quite a bit. But i guess thats the part of learning. 
 
